@@ -1,0 +1,1 @@
+Adds COLLATE NOCASE to _all_ string columns for SQLite3 databases.  Causes sorting and other SQL comparisons to be case-insensitive.
